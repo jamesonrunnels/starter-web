@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jameson Runnels	CEO	@jamesonrunnels
 
 # THANKS
 
