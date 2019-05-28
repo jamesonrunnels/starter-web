@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-©2019 Jameson Runnels. All Rights Reserved.
+©2019 Jameson Runnels. All Rights Reserved. Forevermore.
